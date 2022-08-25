@@ -1,0 +1,31 @@
+{
+  "name": "postcodetunisia-api",
+  "version": "1.0.0",
+  "description": "list of tunisia postal codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hajer77/postCodeTunisia-api.git"
+  },
+  "keywords": [
+    "Post",
+    "Code",
+    "Tunisia",
+    "code",
+    "postal",
+    "tunisie"
+  ],
+  "author": "Hajer Dahech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hajer77/postCodeTunisia-api/issues"
+  },
+  "homepage": "https://github.com/hajer77/postCodeTunisia-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
