@@ -1,152 +1,143 @@
 {
-    "Tunisia":  [
+  "Tunisia": [
+    {
+      "id": 0,
+      "governorate": "Bizete",
+      "postalCodePrefixes": "70**",
+      "delegations": [
         {
-          "id":0,
-          "governorate":"Bizete",
-          "postalCodePrefixes":"70**",
-          "delegations": [
+          "delegationid": 0,
+          "delegationName": "Bizerte Nord",
+          "localities": [
             {
-                "delegationid":0,
-                "delegationName":"Bizerte Nord",
-                "localities": [
-                {
-                "localityid":0,
-                "localityName":"Bizerte",
-                "postCode":7000
-                },
-                {
-                    "localityid":1,
-                    "localityName":"Cite Afh",
-                    "postCode":7053
-                 },
-                 {
-                    "localityid":2,
-                    "localityName":"Cite Belvedere",
-                    "postCode":7000
-                 }
-                
-
-
-               ]
+              "localityid": 0,
+              "localityName": "Bizerte",
+              "postCode": 7000
+            },
+            {
+              "localityid": 1,
+              "localityName": "Cite Afh",
+              "postCode": 7053
+            },
+            {
+              "localityid": 2,
+              "localityName": "Cite Belvedere",
+              "postCode": 7000
             }
-            
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "governorate": "Tunis",
+      "postalCodePrefixes": "20** et 10**",
+      "delegations": [
         {
-            "id":1,
-            "governorate":"Tunis",
-            "postalCodePrefixes":"20** et 10**",
-            "delegations": [
-              {
-                  "delegationid":0,
-                  "delegationName":"El Omrane Superieur ",
-                  "localities": [
-                  {
-                  "localityid":0,
-                  "localityName":"El Omrane Superieur",
-                  "postCode": 1091
-                  
-                  }
-                  
-  
-  
-                 ]
-              }
-              
-            ]
-          },
-          {
-            "id":2,
-            "governorate":"Ariana",
-            "postalCodePrefixes":"20**",
-            "delegations": [
-              {
-                  "delegationid":0,
-                  "delegationName":"Mnihla",
-                  "localities": [
-                  {
-                  "localityid":0,
-                  "localityName":"Mnihla",
-                  "postCode": 2094
-                  
-                  }
-                  
-  
-  
-                 ]
-              }
-              
-            ]
-          },
-          {
-            "id":3,
-            "governorate":"Gabes",
-            "postalCodePrefixes":"60**",
-            "delegations": [
-              {
-                  "delegationid":0,
-                  "delegationName":"El Hamma",
-                  "localities": [
-                  {
-                  "localityid":0,
-                  "localityName":"El Hamma",
-                  "postCode": 6020
-                  
-                  }
-                  
-  
-  
-                 ]
-              }
-              
-            ]
-          },
-          {
-            "id":4,
-            "governorate":"Sfax",
-            "postalCodePrefixes":"30**",
-            "delegations": [
-              {
-                  "delegationid":0,
-                  "delegationName":"Sfax Ville",
-                  "localities": [
-                  {
-                  "localityid":0,
-                  "localityName":"Sfax Port",
-                  "postCode": 3065
-                  
-                  }
-                  
-  
-  
-                 ]
-              }
-              
-            ]
-          },
-          {
-            "id":5,
-            "governorate":"Kairouan",
-            "postalCodePrefixes":"31**",
-            "delegations": [
-              {
-                  "delegationid":0,
-                  "delegationName":"Kairouan Nord ",
-                  "localities": [
-                  {
-                  "localityid":0,
-                  "localityName":"Kairouan Okba",
-                  "postCode": 3140
-                  
-                  }
-                  
-  
-  
-                 ]
-              }
-              
-            ]
-          }
-       
-    ]
+          "delegationid": 0,
+          "delegationName": "El Omrane Superieur ",
+          "localities": [
+            {
+              "localityid": 0,
+              "localityName": "El Omrane Superieur",
+              "postCode": 1091
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "governorate": "Ariana",
+      "postalCodePrefixes": "20**",
+      "delegations": [
+        {
+          "delegationid": 0,
+          "delegationName": "Mnihla",
+          "localities": [
+            {
+              "localityid": 0,
+              "localityName": "Mnihla",
+              "postCode": 2094
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "governorate": "Gabes",
+      "postalCodePrefixes": "60**",
+      "delegations": [
+        {
+          "delegationid": 0,
+          "delegationName": "El Hamma",
+          "localities": [
+            {
+              "localityid": 0,
+              "localityName": "El Hamma",
+              "postCode": 6020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "governorate": "Sfax",
+      "postalCodePrefixes": "30**",
+      "delegations": [
+        {
+          "delegationid": 0,
+          "delegationName": "Sfax Ville",
+          "localities": [
+            {
+              "localityid": 0,
+              "localityName": "Sfax Port",
+              "postCode": 3065
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "governorate": "Kairouan",
+      "postalCodePrefixes": "31**",
+      "delegations": [
+        {
+          "delegationid": 0,
+          "delegationName": "Kairouan Nord ",
+          "localities": [
+            {
+              "localityid": 0,
+              "localityName": "Kairouan Okba",
+              "postCode": 3140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6
+    },
+    {
+      "governorate": "Mahdia",
+      "postalCodePrefixes": "51**",
+      "delegations": [
+        {
+          "delegationid": 0,
+          "delegationName": "El Djem ",
+          "localities": [
+            {
+              "localityid": 0,
+              "localityName": "Cite Ibn Sina",
+              "postCode": 5160
+            }
+          ]
+        }
+      ],
+      "id": 7
+    }
+  ]
 }
